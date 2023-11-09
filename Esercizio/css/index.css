@@ -1,0 +1,23 @@
+
+body {
+    margin: 0
+}
+h1 {
+    text-align: center;
+}
+
+#tabellone {
+   margin-top: 80px;
+   width: 40%;
+   margin-left: auto;
+   margin-right: auto;
+
+}
+
+#tabellone {
+    border: solid 1px;
+}
+
+#cell {
+    border: solid 1px
+}
